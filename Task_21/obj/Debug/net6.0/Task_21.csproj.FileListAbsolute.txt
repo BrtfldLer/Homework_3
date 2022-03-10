@@ -1,0 +1,15 @@
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\bin\Debug\net6.0\Task_21.exe
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\bin\Debug\net6.0\Task_21.deps.json
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\bin\Debug\net6.0\Task_21.runtimeconfig.json
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\bin\Debug\net6.0\Task_21.dll
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\bin\Debug\net6.0\Task_21.pdb
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\obj\Debug\net6.0\Task_21.csproj.AssemblyReference.cache
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\obj\Debug\net6.0\Task_21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\obj\Debug\net6.0\Task_21.AssemblyInfoInputs.cache
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\obj\Debug\net6.0\Task_21.AssemblyInfo.cs
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\obj\Debug\net6.0\Task_21.csproj.CoreCompileInputs.cache
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\obj\Debug\net6.0\Task_21.dll
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\obj\Debug\net6.0\refint\Task_21.dll
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\obj\Debug\net6.0\Task_21.pdb
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\obj\Debug\net6.0\Task_21.genruntimeconfig.cache
+D:\Обучение\Разработчик\Введение в языки программирования\Семинары 2\Homework_3\Task_21\obj\Debug\net6.0\ref\Task_21.dll
